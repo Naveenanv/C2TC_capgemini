@@ -18,7 +18,7 @@ public class Throws2
 		catch(IOException e) 
 		{
 			System.out.println("caught an exception:\n"+e);
-		}
+		} 
 
 
 	}
